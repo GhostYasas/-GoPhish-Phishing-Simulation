@@ -125,8 +125,3 @@ This project was conducted entirely in a controlled lab environment for academic
 
 ---
 
-## 📚 Module
-
-**IE3032 — Network Security**
-BSc (Hons) Information Technology — Cyber Security Specialization
-SLIIT, Sri Lanka
