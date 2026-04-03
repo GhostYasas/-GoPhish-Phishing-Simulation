@@ -52,15 +52,6 @@ This project demonstrates a full phishing attack simulation using the GoPhish fr
 
 ---
 
-## 📊 Results
-
-| Metric | Count | Rate |
-|---|---|---|
-| Emails Sent | 2 | 100% |
-| Emails Opened | 1 | 50% |
-| Links Clicked | 1 | 50% |
-| Credentials Submitted | 1 | 50% |
-| Emails Reported | 0 | 0% |
 
 ### User Timelines
 
